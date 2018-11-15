@@ -1,0 +1,17 @@
+<? php
+
+ print_r($_POST);
+ die();
+$username = $_POST['user'];
+$mail = $_POST['mail'];
+$password = $_POST['password'];
+
+        $sql = "insert into users (name, email, password) values ('$username', '$email', '$password')";
+        $result = mysqli_query($conectare, $sql);
+
+
+while ( $row = $result->fetch_assoc())
+        {
+        echo '<tr> <td>'.$row{'name'}.'</td>';
+    }
+         header ("Location: users.blade.php");
