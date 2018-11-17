@@ -22,7 +22,7 @@
             <span class="glyphicon glyphicon-pencil" aria-hidden="true"></span> glasses -- o sa fie sters cred 
         </a>
         <a href="echipamente" class="padd list-group-item">
-            <span class="glyphicon glyphicon-pencil" aria-hidden="true"></span> Echipamente
+            <span class="glyphicon glyphicon-pencil" aria-hidden="true"></span> Echipamente - b2-a
         </a>
     </div>
     <div class="padd list-group">
