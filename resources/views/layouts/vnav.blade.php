@@ -9,7 +9,7 @@
     <div class="padd list-group   ">
         <a href="#"
             class="padd list-group-item active main-color-bg">
-            <span class="glyphicon glyphicon-cog" aria-hidden="true"></span> Administrare - b1 - modif 2
+            <span class="glyphicon glyphicon-cog" aria-hidden="true"></span> Administrare - b1 - modif 2 - b2
         </a>
         <a href="userss" class="padd list-group-item">
             <span class="glyphicon glyphicon-user" aria-hidden="true"></span> Utilizatori
@@ -19,7 +19,7 @@
             <span class="glyphicon glyphicon-list-alt" aria-hidden="true"></span> Functii
         </a>
         <a href="glasses" class="padd list-group-item">
-            <span class="glyphicon glyphicon-pencil" aria-hidden="true"></span> glasses
+            <span class="glyphicon glyphicon-pencil" aria-hidden="true"></span> glasses -- o sa fie sters cred 
         </a>
         <a href="echipamente" class="padd list-group-item">
             <span class="glyphicon glyphicon-pencil" aria-hidden="true"></span> Echipamente
