@@ -9,7 +9,7 @@
     <div class="padd list-group   ">
         <a href="#"
             class="padd list-group-item active main-color-bg">
-            <span class="glyphicon glyphicon-cog" aria-hidden="true"></span> Administrare
+            <span class="glyphicon glyphicon-cog" aria-hidden="true"></span> Administrare - b2
         </a>
         <a href="userss" class="padd list-group-item">
             <span class="glyphicon glyphicon-user" aria-hidden="true"></span> Utilizatori
