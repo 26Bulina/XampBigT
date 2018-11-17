@@ -13,7 +13,7 @@
         </a>
         <a href="userss" class="padd list-group-item">
             <span class="glyphicon glyphicon-user" aria-hidden="true"></span> Utilizatori
-            <span class="badge">100</span>
+            <span class="badge">10055</span>
         </a>
         <a href="functii" class="padd list-group-item">
             <span class="glyphicon glyphicon-list-alt" aria-hidden="true"></span> Functii
