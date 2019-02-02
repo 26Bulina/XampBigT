@@ -1,3 +1,8 @@
+-- vreau sa testez sa vad daca aceasta modificare ramane in branch-ul defaul, care va fi b
+acum este b2-a 
+
+
+
 @extends('layouts.basic')
 @section('echipamentesection')
 
