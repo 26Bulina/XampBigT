@@ -1,3 +1,4 @@
+raman sau nu modificarile unde trebuie? 
 @extends('layouts.basic')
 @section('echipamentesection')
 
